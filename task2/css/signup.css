@@ -1,0 +1,28 @@
+body
+{
+	background-size: cover;
+}
+
+
+.form-group{
+	text-align: center;
+    
+}
+.btn {
+	align-items: center;
+}
+
+.navbar-brand{
+
+ font-size: 24px;
+
+}
+
+.navbar-nav{
+
+color: white;
+font-size: 20px;
+
+
+}
+
